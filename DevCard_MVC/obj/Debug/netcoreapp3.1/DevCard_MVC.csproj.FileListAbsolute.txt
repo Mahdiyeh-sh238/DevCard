@@ -108,4 +108,7 @@ E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.
 E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
-E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
+E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LateastArticles\_LateastArticles.cshtml.g.cs
+E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+E:\asp_project\DevCard\Mahdiyeh-sh238\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
